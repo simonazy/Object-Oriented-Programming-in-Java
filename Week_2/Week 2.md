@@ -49,5 +49,5 @@ Now, the constructor is over. So what happens to its scope? Well, when a method 
 
 ![scope2](images/scope2.png)
 
-NOTE: this is optional.
+NOTE: "this" is optional.
 Firstly, the function will look latitude in the constructor's local scope. If does not find it, so it will look in calling object scope. 
