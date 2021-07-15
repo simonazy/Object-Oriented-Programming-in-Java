@@ -9,7 +9,12 @@ This repo is to store notes and assignments complised in the *Object Oriented Pr
 * Explain how to overload methods in Java and why overloading methods is useful 
 * Describe the meaning of the keywords public and private and their effect on where variables can be accessed. 
 
-
+### Week 2
+* Select and effectively use Java documentation
+* Generate visual maps using Java code and the Unfolding Maps libraries
+* Create and draw memory models for reasoning about variable values for primitive and object data types
+* Apply the basic rules for variable scope and explain how it impacts your code
+* Practice tracing code using memory models and Java's rules for variable scope
 
 ### Week 3
 * Create and manipulate Graphical User Interfaces (GUIs)
