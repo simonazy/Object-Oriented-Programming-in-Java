@@ -15,3 +15,13 @@ This repo is to store notes and assignments complised in the *Object Oriented Pr
 * Create and draw memory models for reasoning about variable values for primitive and object data types
 * Apply the basic rules for variable scope and explain how it impacts your code
 * Practice tracing code using memory models and Java's rules for variable scope
+
+### Week 3
+* Create and manipulate Graphical User Interfaces (GUIs)
+* Find and effectively use Java documentation
+* Use the Processing library in your programs
+* Customize visual maps using Java code
+* Use Java to read and parse data files 
+* Organize data into appropriate objects 
+* Describe and use the List data type and the ArrayList class
+* Describe and use the Map data type 
