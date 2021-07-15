@@ -26,3 +26,19 @@ This repo is to store notes and assignments complised in the *Object Oriented Pr
 * Describe and use the List data type and the ArrayList class
 * Describe and use the Map data type 
 
+### Week 4
+* Explain the value of inheritance as a feature in object oriented programming languages   
+* Use the keyword extends 
+* Explain the relationship between a superclass and a subclass
+* Use UML Diagrams to display class hierarchies   
+* Explain an “is-a” relationship between classes 
+* Describe how Java object construction occurs from the inside out 
+* Use same-class and superclass constructors in class creation 
+* Create methods which override from a superclass 
+* Contrast method overloading and method overriding 
+* Explain the purpose of polymorphism
+* Step through decisions made at compile time and runtime 
+* Use casting of objects to aid the compiler 
+* Use the keyword "abstract" 
+* Compare and contrast “inheritance of implementation” and “inheritance of interface” 
+* Decide between Abstract Classes and Interfaces  
