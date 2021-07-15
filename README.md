@@ -9,3 +9,15 @@ This repo is to store notes and assignments complised in the *Object Oriented Pr
 * Explain how to overload methods in Java and why overloading methods is useful 
 * Describe the meaning of the keywords public and private and their effect on where variables can be accessed. 
 
+
+
+### Week 3
+* Create and manipulate Graphical User Interfaces (GUIs)
+* Find and effectively use Java documentation
+* Use the Processing library in your programs
+* Customize visual maps using Java code
+* Use Java to read and parse data files 
+* Organize data into appropriate objects 
+* Describe and use the List data type and the ArrayList class
+* Describe and use the Map data type 
+
