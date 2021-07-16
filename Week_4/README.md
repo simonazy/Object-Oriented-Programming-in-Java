@@ -18,7 +18,7 @@ What do we want with inheritance?
 
 **Rule of thumb: always use either public or private** 
 
-### Compiler rule for class construction
+## Compiler rule for class construction
 
 Rule #1 
 No superclass? Compiler inserts: ```extends Ojbect ```
@@ -39,7 +39,7 @@ Need to call super's default constructor.
 ![image](https://user-images.githubusercontent.com/56880104/125877876-cc516e53-b9df-49cc-8c9e-16f83d4a217e.png)
 
 
-### Variable initialize in a Class Hierarchy
+## Variable initialize in a Class Hierarchy
 * super() has to be the first line! 
 
 * :star: Initialize *name* variable in the Student class. OR "how to initialize name without a public setter??? 🌟
@@ -53,6 +53,22 @@ Need to call super's default constructor.
 ![image](https://user-images.githubusercontent.com/56880104/125879065-9a2b8de1-10be-457b-9139-2d645c8ffad5.png)
 
 
+## Overriding
+
+![image](https://user-images.githubusercontent.com/56880104/125892249-20317f6f-85dc-42fa-898b-af1bc7dba5b1.png)
+
+![image](https://user-images.githubusercontent.com/56880104/125892991-c8e7ef43-2ac0-42b2-b919-53b11893ddbb.png)
 
 
+## Polymorphism
 
+```java
+Person p[] = new Person[3];
+p[0] = new Person("Tim");
+p[1] = new Student("Cara",1234);
+p[2] = new Faculty("Mia", "ABCD");
+
+for (int i=0; i<p.length; i++){
+  System.out.println(p[i]);
+  }
+```
