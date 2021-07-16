@@ -29,7 +29,7 @@ No constructor? Java gives you one default constructor with no argument for you.
 
 ![image](https://user-images.githubusercontent.com/56880104/125877664-fab07616-ac2d-48f5-a101-da005f714806.png)
 
-Rulw #3
+Rule #3
 
 Need to call super's default constructor.
 
@@ -41,14 +41,14 @@ Need to call super's default constructor.
 
 ### Variable initialize in a Class Hierarchy
 * super() has to be the first line! 
-* 
-* Initialize *name* variable in the Student class. OR "how to initialize name without a public setter??? 🌟
+
+* :star: Initialize *name* variable in the Student class. OR "how to initialize name without a public setter??? 🌟
 
 ![image](https://user-images.githubusercontent.com/56880104/125878766-2673ce2f-eed2-430e-8563-e6b030d372d9.png)
 
 ( variable *name* is private, so *"this"* will NOT work)
 
-* Add "No-argment" default constructor in the studnet class:
+* Add "No-argument" default constructor in the studnet class:
 
 ![image](https://user-images.githubusercontent.com/56880104/125879065-9a2b8de1-10be-457b-9139-2d645c8ffad5.png)
 
