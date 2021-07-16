@@ -42,3 +42,12 @@ This repo is to store notes and assignments complised in the *Object Oriented Pr
 * Use the keyword "abstract" 
 * Compare and contrast “inheritance of implementation” and “inheritance of interface” 
 * Decide between Abstract Classes and Interfaces  
+
+### Week 5
+* Distinguish between Abstract Classes and Interfaces
+* Analyze event-driven code
+* Explain how mouse-clicks and keyboard input interact with the program execution
+* Design user-interface elements
+* Write code to implement a button and respond to mouse events
+* Describe inheritance relationships used in the course so far
+* Distinguish between interfaces and classes in this hierarchy
