@@ -51,3 +51,17 @@ This repo is to store notes and assignments complised in the *Object Oriented Pr
 * Write code to implement a button and respond to mouse events
 * Describe inheritance relationships used in the course so far
 * Distinguish between interfaces and classes in this hierarchy
+
+### Week 6
+* Motivate the importance of search
+* Write code to perform a linear search     
+* Explain and implement the binary search algorithm
+* Explain why binary search is better than linear search 
+* Define sorting 
+* Explain why sorting data can be useful 
+* Explain and implement the selection sort algorithm 
+* Trace code and describe its high-level function 
+* Describe alternate algorithms for sorting 
+* Use pre-defined Java methods to sort 
+* Explain the properties of this built-in sort algorithm
+* Define and use the Comparable interface in Java  
