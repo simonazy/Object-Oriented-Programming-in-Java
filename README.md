@@ -2,6 +2,12 @@
 
 This repo is to store notes and assignments complised in the *Object Oriented Programming in Java* class provided by UCSD on Cousera.[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/home/welcome).
 
+An interactive GUI module using Processing (https://processing.org/) and UnfoldingMaps (http://unfoldingmaps.org/).
+Displays a world map with live Earthquake data feed from http://earthquake.usgs.gov/
+
+![image_2021_08_02T16_26_35_151Z](https://user-images.githubusercontent.com/56880104/127895663-214d20ca-8a38-4e78-b4c6-c8badf17457a.png)
+
+
 ### Week 1
 * Motivate the use of classes and objects in programming
 * Create objects and call methods on them
